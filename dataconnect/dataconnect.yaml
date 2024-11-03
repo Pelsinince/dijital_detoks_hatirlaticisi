@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "dijital_detoks_hatirlaticisi"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "dijital_detoks_hatirlaticisi-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

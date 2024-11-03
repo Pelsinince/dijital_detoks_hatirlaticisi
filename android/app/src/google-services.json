@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912254825388",
+    "project_id": "dijital-detoks-hatirlaticisi",
+    "storage_bucket": "dijital-detoks-hatirlaticisi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912254825388:android:846cc500780d7695c74009",
+        "android_client_info": {
+          "package_name": "com.furkanaslan.dijital_detoks_hatirlaticisi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJrBWDC1iwyD2_-22tCbwH0sD8xtJ7DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
